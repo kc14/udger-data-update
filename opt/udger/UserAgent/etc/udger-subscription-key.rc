@@ -1,0 +1,2 @@
+# Udger - Local Parser Subscription Key
+export UDGER_SUBSCRIPTION_KEY="<Your Udger Subscription Key>"
